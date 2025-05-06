@@ -6,7 +6,7 @@ I’m currently working on [my thesis on urban heat islands!](https://github.com
 **My hobbies include:**
 
 - 🎮 Video games (especially rhythm and puzzle games)
-- 🎲 Tabletop games (like Dungeons & Dragons and FATE)
+- 🎲 Tabletop games (like Dungeons & Dragons)
 - ✏️ Drawing
 
 ### Languages and Tools:
