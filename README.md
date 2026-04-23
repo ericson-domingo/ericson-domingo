@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ericson</h1>
-<h3 align="center">I'm a 5th year undergraduate Physics student.</h3>
-
-I’m currently working on [my thesis on urban heat islands!](https://github.com/ericson-domingo-ug/thesis-latex)
+<h3 align="center">I'm a graduate of BS Physics, with specialization in Medical Instrumentation.</h3>
 
 **My hobbies include:**
 
-- 🎮 Video games (especially rhythm and puzzle games)
-- 🎲 Tabletop games (like Dungeons & Dragons)
+- ✏️ Crosswords
+- 🎮 Video games
+- 🎲 Tabletop games and trading card games
 - ✏️ Drawing
 
 ### Languages and Tools:
