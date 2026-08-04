@@ -1,13 +1,37 @@
-<h1 align="center">Hi 👋, I'm Ericson</h1>
-<h3 align="center">I'm a graduate of BS Physics, with specialization in Medical Instrumentation.</h3>
+<h1 align="center">👋 Hi! I'm Ericson.</h1>
+<h3 align="center">I'm studying to become a medical physicist!</h3>
 
-**My hobbies include:**
+**More about me:**
+- BS Physics, with specialization in Medical Instrumentation @ the De La Salle University, Manila
+- Incoming MS Applied Physics (Medical Physics) @ University of the Philippines, Manila
+- Hobbies: Solving crosswords, drawing, playing video games and trading card games
 
-- ✏️ Crosswords
-- 🎮 Video games
-- 🎲 Tabletop games and trading card games
-- ✏️ Drawing
+Data Handling and Instrumentation:
 
+![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy)
+![Static Badge](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas)
+![Static Badge](https://img.shields.io/badge/MatPlotLib-%2311557C?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/LabVIEW-%23FFDB00?style=for-the-badge&logo=labview&logoColor=000000)
+![Static Badge](https://img.shields.io/badge/MATLAB-08609D?style=for-the-badge)
+
+Physics Simulation:
+
+![Static Badge](https://img.shields.io/badge/Particle_and_Heavy_Ion_Transport_code_System-33A1DB?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Regional_Climate_Model-FFFFFF?style=for-the-badge)
+
+Version Control:
+
+![Static Badge](https://img.shields.io/badge/git-%23F03C2E?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
+
+Typesetting and Design:
+
+![Static Badge](https://img.shields.io/badge/LaTex-008080?style=for-the-badge&logo=latex)
+![Static Badge](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Canva-7A36D8?style=for-the-badge)
+
+<!--
 ### Languages and Tools:
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
@@ -19,7 +43,6 @@
 </p>
 
 
-<!--
 **ericson-domingo-ug/ericson-domingo-ug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
