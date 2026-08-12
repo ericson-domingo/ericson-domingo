@@ -12,7 +12,7 @@ More About Me:
 - Hobbies: Solving crosswords, drawing, playing video games and trading card games
 - Goals: become an educator, learn art
 
-Skillset:
+## Skillset:
 
 - ⭐ **Typesetting with Version Control:**
 ![Static Badge](https://img.shields.io/badge/LaTex-008080?style=for-the-badge&logo=latex)
