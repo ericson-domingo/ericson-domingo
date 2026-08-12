@@ -1,9 +1,12 @@
 <h1 align="center">👋 Hi! I'm Ericson.</h1>
 <h3 align="center">I'm studying to become a medical physicist!</h3>
 
-**More about me:**
+**Education and Experience:**
+- MS Applied Physics (Medical Physics) @ University of the Philippines, Manila (Present)
+- Intern @ Institute of Atomic and Molecular Sciences, Academia Sinica, Taiwan
 - BS Physics, with specialization in Medical Instrumentation @ the De La Salle University, Manila
-- Incoming MS Applied Physics (Medical Physics) @ University of the Philippines, Manila
+
+**More about me:**
 - Hobbies: Solving crosswords, drawing, playing video games and trading card games
 
 Data Handling and Instrumentation:
