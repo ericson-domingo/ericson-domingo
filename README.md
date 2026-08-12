@@ -14,7 +14,7 @@ More About Me:
 
 Skillset:
 
-- **Typesetting with Version Control:**
+- ⭐ **Typesetting with Version Control:**
 ![Static Badge](https://img.shields.io/badge/LaTex-008080?style=for-the-badge&logo=latex)
 ![Static Badge](https://img.shields.io/badge/git-%23F03C2E?style=for-the-badge&logo=git&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
