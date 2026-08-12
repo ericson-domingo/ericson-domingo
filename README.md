@@ -14,12 +14,14 @@ More About Me:
 
 ## Skillset:
 
-- ⭐ **Typesetting with Version Control:**
+⭐ **Typesetting with Version Control:** ⭐
+
 ![Static Badge](https://img.shields.io/badge/LaTex-008080?style=for-the-badge&logo=latex)
 ![Static Badge](https://img.shields.io/badge/git-%23F03C2E?style=for-the-badge&logo=git&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
-- Data Handling and Instrumentation:
+Data Handling and Instrumentation:
+
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy)
 ![Static Badge](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas)
@@ -27,11 +29,13 @@ More About Me:
 ![Static Badge](https://img.shields.io/badge/LabVIEW-%23FFDB00?style=for-the-badge&logo=labview&logoColor=000000)
 ![Static Badge](https://img.shields.io/badge/MATLAB-08609D?style=for-the-badge)
 
-- Physics Simulation:
+Physics Simulation:
+
 ![Static Badge](https://img.shields.io/badge/Particle_and_Heavy_Ion_Transport_code_System-33A1DB?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Regional_Climate_Model-FFFFFF?style=for-the-badge)
 
-- Design:
+Design:
+
 ![Static Badge](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Canva-7A36D8?style=for-the-badge)
 
